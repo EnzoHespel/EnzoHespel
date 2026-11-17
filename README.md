@@ -8,21 +8,23 @@
 
 <br />
 
-## Ce que je construis
+## <img src="https://raw.githubusercontent.com/EnzoHespel/Flux/main/build/icon.png" width="30" align="top" /> [Flux](https://github.com/EnzoHespel/Flux)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Le poste de pilotage de ma journée de dev. Flux rassemble mes PR GitHub, mes tickets Jira/Linear et mon agenda, et me montre **une seule chose : ce qui m'attend maintenant**, dans l'ordre où le traiter. Un clic lance une session Claude Code sur le bon dépôt et la bonne branche.
 
-### <img src="https://raw.githubusercontent.com/EnzoHespel/Flux/main/build/icon.png" width="22" /> [Flux](https://github.com/EnzoHespel/Flux)
+<a href="https://github.com/EnzoHespel/Flux"><img src="assets/flux-demo.webp" width="100%" alt="Démo de Flux : la file, Mes PR et la Journée" /></a>
 
-Le poste de pilotage de ma journée de dev. Flux rassemble mes PR GitHub, mes tickets Jira/Linear et mon agenda, et me montre **une seule chose : ce qui m'attend maintenant**. Un clic lance une session Claude Code sur le bon dépôt et la bonne branche.
-
+![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</td>
+<br />
+
+## Et aussi
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### ✍️ [Correcteur](https://github.com/EnzoHespel/corrector)
@@ -33,8 +35,7 @@ Une app de barre de menus macOS pour ceux qui tapent trop vite. Quand tu t'arrê
 ![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ### 📈 [seo-rank](https://github.com/EnzoHespel/seo-rank)
 
@@ -42,9 +43,10 @@ Vois où ton site se classe sur Google pour tes mots-clés, à partir de **tes p
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CLI](https://img.shields.io/badge/CLI_+_web_UI-444?style=flat-square&logo=gnubash&logoColor=white)
 
-<a href="https://github.com/EnzoHespel/seo-rank"><img src="https://raw.githubusercontent.com/EnzoHespel/seo-rank/main/docs/screenshot.jpg" width="100%" /></a>
+</td>
+</tr>
+</table>
 
 <br />
 
